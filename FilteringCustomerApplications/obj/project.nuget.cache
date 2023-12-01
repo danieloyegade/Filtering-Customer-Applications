@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cfSf9BTIzfavoeB3aAwCy1C6yZyiNeC1x0tFB0T782RI0D8zHetOBEh1vYB7F6T8cZ3G55ugwleS18ioxSBDoA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Manchester-Digital-Code\\C#-Masterclass\\FilteringCustomerApplications\\FilteringCustomerApplications\\FilteringCustomerApplications.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.build.zuto.cloud:8081/nexus/service/local/nuget/cl4u/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

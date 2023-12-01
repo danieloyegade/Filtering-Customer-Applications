@@ -1,0 +1,14 @@
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\bin\Debug\net6.0\FilteringCustomerApplications.exe
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\bin\Debug\net6.0\FilteringCustomerApplications.deps.json
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\bin\Debug\net6.0\FilteringCustomerApplications.runtimeconfig.json
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\bin\Debug\net6.0\FilteringCustomerApplications.dll
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\bin\Debug\net6.0\FilteringCustomerApplications.pdb
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\obj\Debug\net6.0\FilteringCustomerApplications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\obj\Debug\net6.0\FilteringCustomerApplications.AssemblyInfoInputs.cache
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\obj\Debug\net6.0\FilteringCustomerApplications.AssemblyInfo.cs
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\obj\Debug\net6.0\FilteringCustomerApplications.csproj.CoreCompileInputs.cache
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\obj\Debug\net6.0\FilteringCustomerApplications.dll
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\obj\Debug\net6.0\refint\FilteringCustomerApplications.dll
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\obj\Debug\net6.0\FilteringCustomerApplications.pdb
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\obj\Debug\net6.0\FilteringCustomerApplications.genruntimeconfig.cache
+C:\Code\Manchester-Digital-Code\C#-Masterclass\FilteringCustomerApplications\FilteringCustomerApplications\obj\Debug\net6.0\ref\FilteringCustomerApplications.dll
